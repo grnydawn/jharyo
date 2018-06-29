@@ -1,0 +1,8 @@
+bumpversion
+wheel
+flake8
+sphinx
+twine
+sphinx_rtd_theme
+pytest
+pytest-runner
